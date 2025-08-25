@@ -1,0 +1,11 @@
+{
+  "name": "com.dkprogrammer.stat-system",
+  "version": "0.5.0",
+  "displayName": "Stat System",
+  "description": "A reusable stat system for Unity projects.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Dominik Kulpok",
+    "url": "https://github.com/dk-programmer"
+  }
+}
