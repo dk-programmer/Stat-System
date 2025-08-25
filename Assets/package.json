@@ -1,6 +1,6 @@
 {
   "name": "com.dkprogrammer.stat-system",
-  "version": "0.5.0",
+  "version": "0.0.6",
   "displayName": "Stat System",
   "description": "A reusable stat system for Unity projects.",
   "unity": "2020.3",
