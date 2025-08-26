@@ -1,0 +1,16 @@
+{
+    "name": "StatSystemEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bee8378ca135a964fa0dfa77176fb17c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
